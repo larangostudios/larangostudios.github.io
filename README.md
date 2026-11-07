@@ -1,1 +1,1 @@
-# larangostudios.gethub.io
+# larangostudios.github.io
